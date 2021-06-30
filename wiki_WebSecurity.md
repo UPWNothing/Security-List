@@ -105,6 +105,10 @@
 - https://github.com/jcesarstef/dotdotslash    //目录遍历漏洞测试
 - https://paper.seebug.org/1148/    //RFI 巧用 WebDAV 绕过 URL 包含限制 Getshell。远程文件包含漏洞利用。
 - https://github.com/lz520520/railgun    //GUI界面的渗透工具。goodjob。G:/kuiguansec/rcetool;--
+
+## 漏洞分级
+- https://github.com/bugcrowd/vulnerability-rating-taxonomy/blob/master/vulnerability-rating-taxonomy.json     //不同种类的漏洞的分级列表，json格式，可以导入自动化报告
+
 ## 前端漏洞利用
 - https://github.com/ticarpi/jwt_tool    //Py。json web token的检测。G:/lmammino/jwt-cracker;--
 - https://github.com/dienuet/crossdomain    //Py。CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
